@@ -1,0 +1,28 @@
+name: rickhumphries
+favicon: null
+layout_spectrum: 0.16439626063220203
+typography_spectrum: 0.7764351321384311
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.718746776226908
+  lightness: 0.6564132194034755
+  saturation: 0.6448895009234548
+  rhythmicContrast: 0.11550701828673482
+purpose: []
